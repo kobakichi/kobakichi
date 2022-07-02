@@ -1,5 +1,12 @@
 ### Hi there 👋
+#### I'm kobakichi RareTECH student
 
+![](https://komarev.com/ghpvc/?username=kobakichi&color=brightgreen&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/kobakichi_drift?style=for-the-badge&color=blue)
+
+![kobakichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobakichi&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobakichi&layout=compact)](https://github.com/kobakichi/github-readme-stats)
 <!--
 **kobakichi/kobakichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
