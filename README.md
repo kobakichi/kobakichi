@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!!! 👋
 #### I'm kobakichi RareTECH student
 
 ![](https://komarev.com/ghpvc/?username=kobakichi&color=brightgreen&style=for-the-badge)
