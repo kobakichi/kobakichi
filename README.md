@@ -1,5 +1,5 @@
 ### Hello!!! 👋
-#### I'm kobakichi RareTECH student
+#### I'm kobakichi
 
 ![](https://komarev.com/ghpvc/?username=kobakichi&color=brightgreen&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kobakichi_drift?style=for-the-badge&color=blue)
